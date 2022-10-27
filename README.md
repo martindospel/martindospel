@@ -6,7 +6,7 @@ My name is Martin Dospel. I am a passionate creator and problem solver who loves
 
 I am currently employed as a software developer consultant at [SALT](https://www.salt.dev/sv-SE). 
 
-🔭 Currently, I am collaborating on TrackMate V2 (GoLang, React Native). Here's the [Code](https://github.com/sayedmurtaza24/trackmatev2). 
+🔭 Recently, I've been collaborating on TrackMate V2 (GoLang, React Native). Here's the [Code](https://github.com/sayedmurtaza24/trackmatev2). 
   
 🔭 I am also working on a Blog website (NextJS, Tailwind, GraphQL). 
 
