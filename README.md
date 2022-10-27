@@ -12,7 +12,7 @@ I am currently employed as a software developer consultant at [SALT](https://www
 
 🌱 In my spare time, I am learning more about AWS, GoLang and always deepening my knowledge of JavaScript. 
 
-📫 You can reach me on my [Email](martin.dospel@appliedtechnology.se). 
+📫 You can reach me on my email --> martin.dospel@appliedtechnology.se
 
 💫 Alternatively, check out my [Portfolio website](https://martindospel.netlify.app/).
 
