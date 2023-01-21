@@ -9,7 +9,7 @@ My name is Martin Dospel. I am a passionate problem solver who loves to learn ne
 💫 Portfolio --> https://martindospel.netlify.app/ <br/>
      
 🔭 Current projects: <br/>
-     ⏳ ChatGPT AI JavaScript app <br/>
+     ⏳ OpenAI JavaScript app (OpenAI, Node.js, Vite). Here's the [Code](https://github.com/martindospel/SnabbCode) <br/>
      ⏳ TrackMate V2 (GoLang, React Native). Here's the [Code](https://github.com/sayedmurtaza24/trackmatev2). <br/>
      ⏳ Blog website (NextJS, Tailwind, GraphQL). Here's the [Code](https://github.com/martindospel/Blog). <br/>
      ⏳ Algorithms collection. Here's the [Code](https://github.com/martindospel/algorithms).
