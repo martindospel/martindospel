@@ -2,7 +2,7 @@
 
 ### Hi and welcome 👋
 
-My name is Martin Dospel. I'm a passionate problem solver who loves to learn new things. 
+My name is Martin. I'm a passionate Full-Stack developer.
 
 🌐 LinkedIn --> https://www.linkedin.com/in/martindospel/ <br/>
 📫 Email --> martinjdospel@gmail.com <br/>
