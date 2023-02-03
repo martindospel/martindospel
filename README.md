@@ -16,4 +16,5 @@ My name is Martin Dospel. I am a passionate problem solver who loves to learn ne
 
 🌱 In my spare time, I am learning more about AI, GoLang and always deepening my knowledge of JavaScript. 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=martindospel&layout=compact"/>
 </div>
