@@ -4,10 +4,10 @@
 
 My name is Martin. I'm a passionate Full-Stack developer.
 
-🌐 LinkedIn --> https://www.linkedin.com/in/martindospel/ <br/>
+🌐 [LinkedIn](https://www.linkedin.com/in/martindospel/) 
+💫 [Portfolio](https://martindospel.netlify.app/) <br/>
 📫 Email --> martinjdospel@gmail.com <br/>
-💫 Portfolio --> https://martindospel.netlify.app/ <br/>
-     <br/>
+<br/>
      🔭 Deployed projects: <br/>
      [Snabby](https://snabby.vercel.app/) --> OpenAI, NodeJS, Vite <br/> 
      [Checklist](https://todo-app-martindospel.vercel.app/) --> React, Redux <br/>
