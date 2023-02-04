@@ -7,7 +7,7 @@ My name is Martin. I'm a passionate Full-Stack developer.
 🌐 [LinkedIn](https://www.linkedin.com/in/martindospel/)   💫 [Portfolio](https://martindospel.netlify.app/)   📫 Email --> martinjdospel@gmail.com <br/>
 <br/>
      🔭 Deployed projects: <br/>
-     [Snabby](https://snabby.vercel.app/) --> OpenAI, NodeJS, Vite <br/> 
+     [Snabby](https://snabby.vercel.app/) --> ChatGPT, NodeJS, Vite <br/> 
      [Checklist](https://todo-app-martindospel.vercel.app/) --> React, Redux <br/>
      [TrackMate](https://track-mate.netlify.app/) --> React, Redux, NodeJS, ExpressJS, MongoDB, Google auth <br/>
      <br/>
