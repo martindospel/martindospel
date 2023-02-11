@@ -17,5 +17,5 @@ My name is Martin. I'm a passionate Full-Stack developer.
      [Blog](https://github.com/martindospel/Blog) --> NextJS, Tailwind, GraphQL <br/>
      [Algorithms collection](https://github.com/martindospel/algorithms) --> memoization, tabulation
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=martindospel&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=martindospel"/>
 </div>
